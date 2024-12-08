@@ -1,0 +1,9 @@
+/* Placeholder styles for light and dark mode */
+input::placeholder {
+    color: #666; /* Light mode placeholder color */
+  }
+  
+  input.dark-placeholder::placeholder {
+    color: #ccc; /* Dark mode placeholder color */
+  }
+  
